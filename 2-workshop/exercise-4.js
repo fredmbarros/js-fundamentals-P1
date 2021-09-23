@@ -9,7 +9,9 @@ function exercise4() {
   //
   // Edit only the code between the lines (below)
   // -----------------------------------------------------------------
-  for (let number = 0; number < 12; number++) {
+  function sq(x) { return x * x; } 
+  for (let number = 0; number <= 12; number++) {
+    let square = sq(number);
     console.log(square);
   }
   // -----------------------------------------------------------------

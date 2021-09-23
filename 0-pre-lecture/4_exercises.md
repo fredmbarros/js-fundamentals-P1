@@ -57,4 +57,4 @@ What is the value of the following expressions?
 
 1. person.name // Bob
 2. person['name'] // Bob
-3. person[name] // Bob
+3. person[name] // undefined
