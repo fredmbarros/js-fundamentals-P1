@@ -27,6 +27,6 @@ ES stands for ECMAScript. ECMAScript is a standard for creating a scripting lang
 
 ---
 
-JavaScript is a multi-paradigm language. It compbines tools for [imperative programming](https://en.wikipedia.org/wiki/Imperative_programming), [functional programming](https://en.wikipedia.org/wiki/Functional_programming) and [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming).
+JavaScript is a multi-paradigm language. It combines tools for [imperative programming](https://en.wikipedia.org/wiki/Imperative_programming), [functional programming](https://en.wikipedia.org/wiki/Functional_programming) and [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming).
 
 As we start learning JS, we'll focus on a mix of all three. We'll take a more [procedural approach](https://en.wikipedia.org/wiki/Procedural_programming).
