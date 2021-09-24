@@ -20,6 +20,16 @@ function exercise13() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  counter = 50;
+  for (counter = 1; counter <= 50; counter++) {
+
+  }
+  x + y === z;
+  x = y;
+  y = z;
+
+
+
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //

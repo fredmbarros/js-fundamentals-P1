@@ -15,6 +15,15 @@ function exercise12() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  for (let i = 1; i <= 200; i++) { 
+    for (p = 1; p < i; p++) {
+      if (i == 1) { console.log("Not prime"); } 
+      else if (i % p == 0) {
+        console.log("Not prime");
+      }
+      else { console.log("Prime"); }
+    }
+  }
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //
