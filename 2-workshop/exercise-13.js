@@ -20,15 +20,21 @@ function exercise13() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
-  counter = 50;
-  for (counter = 1; counter <= 50; counter++) {
+  
+  let counter = 0;
+  let x = 1;
+  let y = 1;
+  let z = 2;
 
+  function fibo(x, y, z) { 
+    return x + y === z;
   }
-  x + y === z;
-  x = y;
-  y = z;
 
-
+  for (counter = 1; counter <= 50; counter++) {
+    fibo(x, y, z);
+    x = y;
+    y = z;
+  }
 
   // -----------------------------------------------------------------
   // Write code between the lines (above)
